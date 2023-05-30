@@ -174,6 +174,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
+- [9Launcher](https://github.com/wearrrrr/9Launcher) - Launcher for Touhou Project games!
 
 ### Information
 
